@@ -29,6 +29,8 @@ Este es un Robot de Trading que permite tomar decisiones en la inversión de cri
 </ul>
 
 <h2>📉Gráficos📊</h2>
-![Precio del bitcoin](https://github.com/patriciaquinones/Robot-Trading/assets/49883687/16a61605-1383-4f9b-9c4f-29fc1d056b87)
-![Visualización del histórico de precios en los ultimos 7 dias, incluyendo toma de decisiones basada en los datos](https://github.com/patriciaquinones/Robot-Trading/assets/49883687/3086fc9a-26b9-4ca7-afdc-0b19c5e33a85)
+<img src='https://github.com/patriciaquinones/Robot-Trading/assets/49883687/16a61605-1383-4f9b-9c4f-29fc1d056b87'/>
+<p><i>Ultimos precios del bitcoin concentrados entre el Q1 y Q3</i></p>
+<img src='https://github.com/patriciaquinones/Robot-Trading/assets/49883687/3086fc9a-26b9-4ca7-afdc-0b19c5e33a85'/>
+<p><i>Visualización del histórico de precios en los ultimos 7 dias, incluyendo toma de decisiones y el promedio basada en los datos reales del mercado.</i></p>
 
