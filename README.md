@@ -34,3 +34,5 @@ Este es un Robot de Trading que permite tomar decisiones en la inversión de cri
 <img src='https://github.com/patriciaquinones/Robot-Trading/assets/49883687/3086fc9a-26b9-4ca7-afdc-0b19c5e33a85'/>
 <p><i>Visualización del histórico de precios en los ultimos 7 dias, incluyendo toma de decisiones y el promedio basada en los datos reales del mercado.</i></p>
 
+#aluralatam
+#aluraChallengeRobotTrading
